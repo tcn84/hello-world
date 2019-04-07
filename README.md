@@ -1,2 +1,2 @@
 # hello-world
-Greetings to all IT global citizen.
+Greetings to all IT global citizens.
